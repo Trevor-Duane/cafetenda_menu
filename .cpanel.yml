@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/jnoim0j52vif/public_html/menu.tendacafe.com
-    - /bin/cp -R build $DEPLOYPATH
