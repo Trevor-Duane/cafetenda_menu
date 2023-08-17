@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 import HomeScreen from './pages/HomePage/HomeScreen';
 import { ThemeProvider } from 'react-bootstrap';
+import './App.css';
+
 
 function App() {
   return (

@@ -1,7 +1,32 @@
+.cartContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  background-color: #84449a;
+}
+.itemCountContainer{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  border-radius: 50%;
+  height: 16px;
+  width: 16px;
+  margin-left: -10px;
+}
+.itemCount{
+  color: aliceblue;
+  font-size: .85rem;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   body, html{
-      background-color: aqua;
+      background-image: url("./assets/paper.png");
+      background-size: cover;
   }
 }
 
