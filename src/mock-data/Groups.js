@@ -2,31 +2,31 @@ export const groups = [
     {
         "id": 1,
         "name": "Breakfast",
-        "cover-image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=763&q=80"
+        "cover_image": "http://tendaafrica.com/websites_assets/breakfast.jpg"
     },
     {
         "id": 2,
         "name": "Drinks",
-        "cover-image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=763&q=80"
+        "cover_image": "http://tendaafrica.com/websites_assets/drinks.jpg"
     },
     {
         "id": 3,
         "name": "Lunch/Dinner",
-        "cover-image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=763&q=80"
+        "cover_image": "http://tendaafrica.com/websites_assets/dinner.jpg"
     },
     {
         "id": 4,
         "name": "Pizza",
-        "cover-image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=763&q=80"
+        "cover_image": "http://tendaafrica.com/websites_assets/pizza.jpg"
     },
     {
         "id": 5,
         "name": "Pastries",
-        "cover-image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=763&q=80"
+        "cover_image": "http://tendaafrica.com/websites_assets/pastries.jpg"
     },
     {
         "id": 6,
         "name": "Ice Cream",
-        "cover-image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=763&q=80"
+        "cover_image": "http://tendaafrica.com/websites_assets/ice-cream.jpg"
     },
 ]
